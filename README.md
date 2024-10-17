@@ -1,7 +1,7 @@
 1  class Person {
 2      constructor() {
 3        this.name = "Moon Seo Yeon";
-4        this.traits = ["DESIGN", "DEV"];
+4        this.traits = ["linear-gradient(134deg, #6A98F0 0%, #4961DC 99%)", "DEV"];
 5        this.age = new Date().getFullYear() - 2001;
 6      }
 7  }
