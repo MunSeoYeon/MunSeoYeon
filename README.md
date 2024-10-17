@@ -1,3 +1,11 @@
+1  class Person {
+2      constructor() {
+3        this.name = "Moon Seo Yeon";
+4        this.traits = ["DESIGN", "DEV"];
+5        this.age = new Date().getFullYear() - 2001;
+6      }
+7  }
+
 <div align="center">
 
 ![header](https://capsule-render.vercel.app/api?type=venom&height=200&section=header&fontSize=70)
@@ -9,7 +17,6 @@
 
 <br>
 
-## 안녕하세요! 문서연입니다. 👋 <br>おはようございます！ムンソヨンと申します。👋
 
 ### Main Lanauage 🛠️
 <br>
